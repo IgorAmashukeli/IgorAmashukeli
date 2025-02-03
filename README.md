@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=GalaxyRegression)](https://github.com/IgorAmashukeli/GalaxyRegression) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=NumberOfClusters)](https://github.com/IgorAmashukeli/NumberOfClusters)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=RISC_V)](https://github.com/IgorAmashukeli/RISC_V) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=FunctionalCompiler)](https://github.com/IgorAmashukeli/FunctionalCompiler) 
+
+
