@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ## Repositorties
 
 
-[![Repo 1 Banner](https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png)](https://github.com/IgorAmashukeli/SQL)
-  **Repo 1**
