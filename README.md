@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ## Repositorties
 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=SQL)](https://github.com/IgorAmashukeli/SQL)
