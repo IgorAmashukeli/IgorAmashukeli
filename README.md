@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 ## Repositorties
 
 
-# My Repositories
-
-
 <a href="https://github.com/IgorAmashukeli/SQL">
   <div style>
     <img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png" alt="Repo 1" width="250" height="100">
@@ -28,3 +25,8 @@ Here are some ideas to get you started:
   </div>
 </a> 
 
+
+ <a href="https://github.com/IgorAmashukeli/SQL" style="display: inline-block; position: relative;">
+  <img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png" alt="Repo 1" width="250" height="100">
+  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 18px; font-weight: bold;">SQL: solutions to Stepik SQL course</span>
+</a> 
