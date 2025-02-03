@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 </a> 
 
 
-<a href="https://github.com/IgorAmashukeli/SQL" style="display: inline-block; position: relative; text-decoration: none;">
-  <img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png" alt="Repo 1" width="250" height="100">
-  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 18px; font-weight: bold;">SQL: solutions to Stepik SQL course</span>
-</a>
+<a href="https://github.com/IgorAmashukeli/SQL" style="display: inline-block;">
+    <div style="position: relative; width: 250px; height: 100px;">
+        <img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png" alt="Repo 1" width="250" height="100">
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 18px; font-weight: bold;">SQL: solutions to Stepik SQL courses</div>
+    </div>
+</a>>
