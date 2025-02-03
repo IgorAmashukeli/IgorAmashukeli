@@ -1,6 +1,7 @@
 ## Hi! I am Igor Amashukeli 🏛️⚔️📜🏺
 
-![Waving Hand](https://media1.tenor.com/m/mie1MADIwxMAAAAd/spqr-rome.gif)
+
+<img src="https://media1.tenor.com/m/mie1MADIwxMAAAAd/spqr-rome.gif" width="300" height="auto">
 
 <!--
 **IgorAmashukeli/IgorAmashukeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
