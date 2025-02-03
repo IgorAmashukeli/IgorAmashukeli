@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=concurrency)](https://github.com/IgorAmashukeli/concurrency) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=AR-application)](https://github.com/IgorAmashukeli/AR-application)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=GalaxyRegression)](https://github.com/IgorAmashukeli/GalaxyRegression) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=NumberOfClusters)](https://github.com/IgorAmashukeli/NumberOfClusters)
+
+
