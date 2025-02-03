@@ -18,25 +18,13 @@ Here are some ideas to get you started:
 ## Repositorties
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=SQL)](https://github.com/IgorAmashukeli/SQL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=SQL)](https://github.com/IgorAmashukeli/SQL) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Cpp)](https://github.com/IgorAmashukeli/Cpp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Cpp)](https://github.com/IgorAmashukeli/Cpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=bestcode)](https://github.com/IgorAmashukeli/bestcode) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=MathLean)](https://github.com/IgorAmashukeli/MathLean)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=bestcode)](https://github.com/IgorAmashukeli/bestcode)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=MathLean)](https://github.com/IgorAmashukeli/MathLean)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Hdlbits)](https://github.com/IgorAmashukeli/Hdlbits)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Hdlbits)](https://github.com/IgorAmashukeli/Hdlbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Neetcode)](https://github.com/IgorAmashukeli/Neetcode)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Neetcode)](https://github.com/IgorAmashukeli/Neetcode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=OS)](https://github.com/IgorAmashukeli/OS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Nand2Tetris)](https://github.com/IgorAmashukeli/Nand2Tetris)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=OS)](https://github.com/IgorAmashukeli/OS)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Nand2Tetris)](https://github.com/IgorAmashukeli/Nand2Tetris)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=AR_application)](https://github.com/IgorAmashukeli/AR_application)
 
