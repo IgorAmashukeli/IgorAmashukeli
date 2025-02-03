@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Repo 1](https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png)](https://github.com/IgorAmashukeli/SQL) | Description of Repo 1
+
+<a href="https://github.com/IgorAmashukeli/SQL"><img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png" alt="Repo 1" width="250" height="100"></a>
+
 
