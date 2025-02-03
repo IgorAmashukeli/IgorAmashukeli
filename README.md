@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Repositorties
+## Pinned Repositorties
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Hdlbits)](https://github.com/IgorAmashukeli/Hdlbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Nand-2-Tetris)](https://github.com/IgorAmashukeli/Nand-2-Tetris) 
