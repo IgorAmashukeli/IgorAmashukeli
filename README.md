@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=SQL)](https://github.com/IgorAmashukeli/SQL)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Cpp)](https://github.com/IgorAmashukeli/Cpp)
