@@ -1,4 +1,4 @@
-## Hi! I am Igor Amashukeli ⚫🟡🏛️⚔️📜🏺 <img src="https://media1.tenor.com/m/mie1MADIwxMAAAAd/spqr-rome.gif" width="100" height="auto">
+## Hi! I am Igor Amashukeli ⚫🟡🏛️⚔️📜🏺 <img src="https://media1.tenor.com/m/mie1MADIwxMAAAAd/spqr-rome.gif" width="100" height="auto", style="vertical-align: middle;">
 
 <!--
 **IgorAmashukeli/IgorAmashukeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
