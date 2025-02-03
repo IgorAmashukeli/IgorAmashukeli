@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/IgorAmashukeli/SQL" target="_blank" style="display: inline-block; border: 2px solid #4CAF50; padding: 10px 20px; margin: 5px; background-color: #e0f7fa; border-radius: 5px; font-weight: bold; text-decoration: none; color: #333;">Repo 1</a>
-<a href="https://github.com/IgorAmashukeli/SQL" target="_blank" style="display: inline-block; border: 2px solid #4CAF50; padding: 10px 20px; margin: 5px; background-color: #e0f7fa; border-radius: 5px; font-weight: bold; text-decoration: none; color: #333;">Repo 2</a>
-<a href="https://github.com/IgorAmashukeli/SQL" target="_blank" style="display: inline-block; border: 2px solid #4CAF50; padding: 10px 20px; margin: 5px; background-color: #e0f7fa; border-radius: 5px; font-weight: bold; text-decoration: none; color: #333;">Repo 3</a>
+[![Repo 1](https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png)](https://github.com/IgorAmashukeli/SQL) | Description of Repo 1
 
