@@ -1,4 +1,4 @@
-## Hi! I am Igor Amashukeli ⚫🟡   🏛️⚔️📜🏺 <img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/ancap.gif" width="65" height="auto" align="middle"> <img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/spqr.gif" width="65" height="auto" align="middle">
+## Hi! This is Igor Amashukeli Github profile ⚫🟡   🏛️⚔️📜🏺 <img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/ancap.gif" width="65" height="auto" align="middle"> <img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/spqr.gif" width="65" height="auto" align="middle">
 
 <!--
 **IgorAmashukeli/IgorAmashukeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
