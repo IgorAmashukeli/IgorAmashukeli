@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Repositorties
+
 
 <a href="https://github.com/IgorAmashukeli/SQL"><img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png" alt="Repo 1" width="250" height="100"></a> <a href="https://github.com/IgorAmashukeli/SQL"><img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png" alt="Repo 1" width="250" height="100"></a>
 
 <a href="https://github.com/IgorAmashukeli/SQL"><img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png" alt="Repo 1" width="250" height="100"></a> <a href="https://github.com/IgorAmashukeli/SQL"><img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png" alt="Repo 1" width="250" height="100"></a>
 
-
+## Profile readme page link
