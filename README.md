@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=OS)](https://github.com/IgorAmashukeli/OS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Concurrency)](https://github.com/IgorAmashukeli/Concurrency)
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Nand2Tetris)](https://github.com/IgorAmashukeli/Nand2Tetris)
 
