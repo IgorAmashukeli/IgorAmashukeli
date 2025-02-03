@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Nand2Tetris)](https://github.com/IgorAmashukeli/Nand2Tetris)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Nand2Tetris)](https://github.com/IgorAmashukeli/AR_application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=AR_application)](https://github.com/IgorAmashukeli/AR_application)
