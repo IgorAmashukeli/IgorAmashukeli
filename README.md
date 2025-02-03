@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-## Gmail: Amashukeliim1150@gmail.com
-## Linkedin: https://www.linkedin.com/in/igor-amashukeli-22a753236/
+Gmail: Amashukeliim1150@gmail.com
+Linkedin: https://www.linkedin.com/in/igor-amashukeli-22a753236/
