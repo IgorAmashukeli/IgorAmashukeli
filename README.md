@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=MySQL)](https://github.com/IgorAmashukeli/MySQL) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Cpp)](https://github.com/IgorAmashukeli/Cpp)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=bestcode)](https://github.com/IgorAmashukeli/bestcode) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=MathLean)](https://github.com/IgorAmashukeli/MathLean)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Bestcode)](https://github.com/IgorAmashukeli/Bestcode) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=MathLean)](https://github.com/IgorAmashukeli/MathLean)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Hdlbits)](https://github.com/IgorAmashukeli/Hdlbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Neetcode)](https://github.com/IgorAmashukeli/Neetcode)
 
