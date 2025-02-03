@@ -18,12 +18,5 @@ Here are some ideas to get you started:
 ## Repositorties
 
 
-<a href="https://github.com/IgorAmashukeli/SQL">
-  <table style="width: 250px; height: 100px; border: none;">
-    <tr>
-      <td style="background-image: url('https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png'); background-size: cover; text-align: center; vertical-align: middle; color: white; font-size: 18px; font-weight: bold;">
-        SQL
-      </td>
-    </tr>
-  </table>
-</a>
+[![Repo 1 Banner](https://github.com/IgorAmashukeli/SQL)](https://github.com/IgorAmashukeli/SQL)
+  **Repo 1**
