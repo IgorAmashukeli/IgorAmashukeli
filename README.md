@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Hdlbits)](https://github.com/IgorAmashukeli/Hdlbits) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Neetcode)](https://github.com/IgorAmashukeli/Neetcode)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=OS)](https://github.com/IgorAmashukeli/OS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Nand2Tetris)](https://github.com/IgorAmashukeli/Nand2Tetris)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=OS)](https://github.com/IgorAmashukeli/OS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Nand-2-Tetris)](https://github.com/IgorAmashukeli/Nand-2-Tetris)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=concurrency)](https://github.com/IgorAmashukeli/concurrency) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=AR-application)](https://github.com/IgorAmashukeli/AR-application)
