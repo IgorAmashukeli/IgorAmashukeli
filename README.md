@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 ## Repositorties
 
 
-<a href="https://github.com/IgorAmashukeli/SQL">
-  <div style>
-    <img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png" alt="Repo 1" width="250" height="100">
-    <span>SQL: solutions to Stepik SQL course</span>
-  </div>
-</a> 
-
-
 <a href="https://github.com/IgorAmashukeli/SQL" style="display: inline-block;">
     <div style="position: relative; width: 250px; height: 100px;">
         <img src="https://github.com/IgorAmashukeli/IgorAmashukeli/blob/main/banner.png" alt="Repo 1" width="250" height="100">
