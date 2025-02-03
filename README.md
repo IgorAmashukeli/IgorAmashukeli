@@ -1,4 +1,4 @@
-## Hi! I am Igor Amashukeli 🏛️⚔️📜🏺⚫🟡
+## Hi! I am Igor Amashukeli ⚫🟡🏛️⚔️📜🏺
 
 
 <img src="https://media1.tenor.com/m/mie1MADIwxMAAAAd/spqr-rome.gif" width="100" height="auto">
