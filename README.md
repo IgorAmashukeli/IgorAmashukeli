@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Gmail: Amashukeliim1150@gmail.com
+## Linkedin: https://www.linkedin.com/in/igor-amashukeli-22a753236/
