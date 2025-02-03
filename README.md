@@ -1,6 +1,6 @@
 ## Hi! I am Igor Amashukeli 🏛️⚔️📜🏺
 
-![Waving Hand](https://media.giphy.com/media/3oEdv0j0o6I3rO4v4E/giphy.gif)
+![Waving Hand](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtmZGs0NGowbDB1MjBwcjJtYm96YjY4M2VlMnhsbGh1aTdkNTRlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MEdjS7u3DGqWBHIwPT/giphy.gif)
 
 <!--
 **IgorAmashukeli/IgorAmashukeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
