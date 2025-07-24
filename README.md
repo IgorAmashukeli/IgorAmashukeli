@@ -17,3 +17,8 @@
 
 
 [![NumberOfClusters](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=NumberOfClusters&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/NumberOfClusters) [![GalaxyRegression](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=GalaxyRegression&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/GalaxyRegression)
+
+
+[![FunctionalCompiler](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=FunctionalCompiler&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/FunctionalCompiler) [![RISC_V](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=RISC_V&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/RISC_V)
+
+
