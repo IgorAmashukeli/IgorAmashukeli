@@ -16,4 +16,4 @@
 
 [![FunctionalCompiler](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=FunctionalCompiler&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/FunctionalCompiler) [![MathLean](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=MathLean&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/MathLean)
 
-[![IgorAmashukeli](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=IgorAmashukeli&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/IgorAmashukeli)
+[![GirafeLean](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=GirafeLean&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/GirafeLeanSolutions) [![IgorAmashukeli](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=IgorAmashukeli&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/IgorAmashukeli)
