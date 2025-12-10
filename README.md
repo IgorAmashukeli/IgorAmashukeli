@@ -1,6 +1,6 @@
 ### 📌 My Repositories
 
-[![Nand-2-Tetris](nand.png)](https://github.com/IgorAmashukeli/Nand-2-Tetris) [![Hdlbits](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Hdlbits&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/Hdlbits)
+[![Nand-2-Tetris](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Nand-2-Tetris&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/Nand-2-Tetris) [![Hdlbits](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Hdlbits&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/Hdlbits)
 
 [![RISC_V](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=RISC_V&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/RISC_V) [![OS](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=OS&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/OS)
 
@@ -16,4 +16,4 @@
 
 [![FunctionalCompiler](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=FunctionalCompiler&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/FunctionalCompiler) [![MathLean](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=MathLean&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/MathLean)
 
-[![GirafeLean](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=GirafeLean&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/GirafeLean) [![IgorAmashukeli](igor.png)](https://github.com/IgorAmashukeli/IgorAmashukeli)
+[![GirafeLean](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=GirafeLean&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/GirafeLean) [![IgorAmashukeli](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=IgorAmashukeli&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/IgorAmashukeli)
