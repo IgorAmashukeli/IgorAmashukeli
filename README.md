@@ -4,7 +4,7 @@
 
 [![RISC_V](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=RISC_V&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/RISC_V) [![OS](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=OS&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/OS)
 
-[![Cpp](https://github-readme-stats-sage-six-40.vercel.app/api/pin/?username=IgorAmashukeli&repo=Cpp)](https://github.com/IgorAmashukeli/Cpp) [![ClassicAlgorithms](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=ClassicAlgorithms&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/ClassicAlgorithms)
+[![Cpp](https://github-readme-stats-sage-six-40.vercel.app/api/pin/?username=IgorAmashukeli&repo=Cpp)](https://github.com/IgorAmashukeli/Cpp) [![ClassicAlgorithms](https://github-readme-stats-sage-six-40.vercel.app/api/pin/?username=IgorAmashukeli&repo=ClassicAlgorithms)](https://github.com/IgorAmashukeli/ClassicAlgorithms)
 
 [![Neetcode](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=Neetcode&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/Neetcode) [![concurrency](https://github-readme-stats.vercel.app/api/pin/?username=IgorAmashukeli&repo=concurrency&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/concurrency)
 
