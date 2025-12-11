@@ -26,3 +26,5 @@
 
 [![GirafeLean](https://github-readme-stats-sage-six-40.vercel.app/api/pin/?username=IgorAmashukeli&repo=GirafeLean&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/GirafeLean)
 [![IgorAmashukeli](https://github-readme-stats-sage-six-40.vercel.app/api/pin/?username=IgorAmashukeli&repo=IgorAmashukeli&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/IgorAmashukeli)
+
+[![HighTalent](https://github-readme-stats-sage-six-40.vercel.app/api/pin/?username=IgorAmashukeli&repo=HighTalent&theme=ambient_gradient&description_lines_count=3)](https://github.com/IgorAmashukeli/HighTalent)
